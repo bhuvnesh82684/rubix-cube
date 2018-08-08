@@ -1146,7 +1146,7 @@ void main(int argc, char **argv)
 	strcpy(quote[1],"The inverter of rubix cube is ERNO RUBIX. ");
 	strcpy(quote[2],"This is a 3-d simulation of real 3-D Rubix Cube .");
 	strcpy(quote[3],"This is design and develop by ");
-	strcpy(quote[4],"KISHORE KUNAL   BHUVNESH TENGURIA");
+	strcpy(quote[4]," BHUVNESH TENGURIA");
 	numberOfQuotes=5;
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
